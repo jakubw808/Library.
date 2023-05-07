@@ -1,0 +1,17 @@
+td.borrowed{
+        background-color: lightcoral;
+    }
+td.unborrowed{
+    background-color: lightgreen;
+}
+table td{
+    border: 2px solid black;
+    text-align: center;
+
+}
+thead{
+    background-color: darkgray;
+}
+tfoot {
+    background-color: lightgray;
+}
